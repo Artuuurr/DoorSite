@@ -1,0 +1,73 @@
+{
+  "hash": "ada2b5b2",
+  "configHash": "95781e89",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "ffb32829",
+  "optimized": {
+    "@fullcalendar/core/locales/ru": {
+      "src": "../../node_modules/@fullcalendar/core/locales/ru.js",
+      "file": "@fullcalendar_core_locales_ru.js",
+      "fileHash": "61b32efe",
+      "needsInterop": false
+    },
+    "@fullcalendar/daygrid": {
+      "src": "../../node_modules/@fullcalendar/daygrid/index.js",
+      "file": "@fullcalendar_daygrid.js",
+      "fileHash": "8e35ea37",
+      "needsInterop": false
+    },
+    "@fullcalendar/react": {
+      "src": "../../node_modules/@fullcalendar/react/dist/index.js",
+      "file": "@fullcalendar_react.js",
+      "fileHash": "787cf4cc",
+      "needsInterop": false
+    },
+    "@fullcalendar/timegrid": {
+      "src": "../../node_modules/@fullcalendar/timegrid/index.js",
+      "file": "@fullcalendar_timegrid.js",
+      "fileHash": "44bc1599",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "9f53b7df",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "8251c652",
+      "needsInterop": true
+    },
+    "react-modal": {
+      "src": "../../node_modules/react-modal/lib/index.js",
+      "file": "react-modal.js",
+      "fileHash": "19662827",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "bc16f449",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-HQR3EOS5": {
+      "file": "chunk-HQR3EOS5.js"
+    },
+    "chunk-5EN4GRZK": {
+      "file": "chunk-5EN4GRZK.js"
+    },
+    "chunk-ZIYUGMGG": {
+      "file": "chunk-ZIYUGMGG.js"
+    },
+    "chunk-65KY755N": {
+      "file": "chunk-65KY755N.js"
+    },
+    "chunk-V4OQ3NZ2": {
+      "file": "chunk-V4OQ3NZ2.js"
+    }
+  }
+}
